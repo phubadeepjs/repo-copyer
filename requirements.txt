@@ -1,0 +1,6 @@
+aiofiles>=23.2.1
+autopep8>=2.0.4
+black>=24.1.1
+psutil>=5.9.8
+reportlab>=4.1.0
+tqdm>=4.66.1 
