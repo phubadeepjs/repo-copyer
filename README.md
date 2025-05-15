@@ -15,7 +15,7 @@ A Python tool that converts a repository's contents into both PDF and TXT format
 
 1. Clone the repository:
 ```bash
-git clone [<repository-url>](https://github.com/phubadeepjs/repo-copyer)
+git clone https://github.com/phubadeepjs/repo-copyer.git
 cd repo-copyer
 ```
 
